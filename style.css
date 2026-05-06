@@ -110,6 +110,20 @@ blockquote {
   color: var(--text);
 }
 
+.poster img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+
+.poster-note {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 0 0 4px;
+}
+
 footer {
   margin-top: 40px;
   padding-top: 20px;
